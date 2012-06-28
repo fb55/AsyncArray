@@ -1,0 +1,19 @@
+{
+  "name": "AsyncArray",
+  "version": "0.0.0",
+  "description": "A control-flow library that mimics the semantics of JS arrays, with extras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fb55/asyncarray"
+  },
+  "keywords": [
+    "array",
+    "controllflow",
+    "async"
+  ],
+  "author": "Felix Boehm <me@feedic.com>"
+}
