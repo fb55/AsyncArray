@@ -4,14 +4,14 @@ A control-flow library that mimics the semantics of JS arrays, plus adds a chain
 
 ##Install
 
-    npm install asyncarray
+    npm install AsyncArray
 
 ##API
 
 ###Require
 
 ```js
-var AsyncArray = require("asyncarray");
+var AsyncArray = require("AsyncArray");
 ```
 
 ###Constructor
